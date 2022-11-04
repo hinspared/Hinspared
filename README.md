@@ -2,12 +2,17 @@
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning **NextJS, tRPC, MySQL**
-
-- 💬 Ask me about **React, Typescript, Material-UI**
-
-- 📫 How to reach me <a href="mailto:khasanov.marat@icloud.com">**khasanov.marat@icloud.com**</a>
+  - 🌱 I’m currently learning NextJS, tRPC, MySQL
 </p>
+<p align="center">
+  - 💬 Ask me about React, Typescript, Material-UI
+</p>
+<p align="center">
+- 📫 How to reach me <a href="mailto:khasanov.marat@icloud.com">khasanov.marat@icloud.com</a>
+</p>
+
+
+
 
 
 
