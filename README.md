@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Marat Khasanov</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate Front-End developer from Prague,Czech Republic</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning NextJS, tRPC, MySQL
+  - 🌱 I’m currently learning Angular, NestJS
 </p>
 <p align="center">
-  - 💬 Ask me about React, Typescript, Material-UI
+  - 💬 Ask me about NextJS, TypeScript, TailwindCSS
 </p>
 <p align="center">
 - 📫 How to reach me <a href="mailto:khasanov.marat@icloud.com">khasanov.marat@icloud.com</a>
