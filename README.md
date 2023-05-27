@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End developer from Prague,Czech Republic</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning Angular, NestJS
+  - 🌱 I’m currently learning Vue, NuxtJS
 </p>
 <p align="center">
   - 💬 Ask me about NextJS, TypeScript, TailwindCSS
